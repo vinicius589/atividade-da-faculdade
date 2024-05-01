@@ -1,19 +1,17 @@
 body {
-    color: #1b6596;
-    background-color: #ffff;
+    color: #c42222;
+    background-color: rgb(248, 250, 205);
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     margin-left: auto;
     margin-right: auto;
     width: 940px;
 }
 h2 {
-    border-bottom: 2px solid #e9cf09;
+    border-bottom: 2px solid #5fe909;
     margin-top: 30px;
 }
 
 figure {
-    background-color: #ffff;
-    border: 1px solid #ffff;
     text-align: center;
     padding: 15px;
     margin: 30px;
