@@ -1,20 +1,14 @@
 body {
-    color: #c42222;
-    background-color: rgb(248, 250, 205);
+    color: #1c75eab1;
+    background-color: rgb(238, 219, 219);
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     margin-left: auto;
     margin-right: auto;
     width: 940px;
 }
 h2 {
-    border-bottom: 2px solid #5fe909;
+    border-bottom: 2px solid #f1fc57;
     margin-top: 30px;
-}
-
-figure {
-    text-align: center;
-    padding: 15px;
-    margin: 30px;
 }
 
 figcaption {
@@ -26,13 +20,6 @@ p {
     padding: 0 45px;
     text-indent: 15px;
 }
-
-#segurança{
-    margin-left: auto;
-    margin-right: auto;
-    width: 550px;
-}
-
 #pilhares-segurança{
     float: right;
     margin: 0 0 10px 10px;
